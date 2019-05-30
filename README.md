@@ -5,6 +5,6 @@ This is a quick and dirty node.js app cobbled together for the purposes of demon
 
 Exposes web server on port 8080 as per ./app.js
 
-See **Dockerfile** for more details
+See **Dockerfile** for more details and updates.
 
 
